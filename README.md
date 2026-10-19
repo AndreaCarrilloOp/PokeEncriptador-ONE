@@ -31,7 +31,7 @@ Las "llaves" de encriptación que utilizaremos son las siguientes:
 - Botón para copiar el texto encriptado/desencriptado al portapapeles, similar a la funcionalidad de `Ctrl+C` o "copiar" del menú de las aplicaciones.
 
 ## Enlace a GitHub Pages
-https://andcarrillo.github.io/PokeEncriptador-ONE/
+https://AndreaCarrilloOp.github.io/PokeEncriptador-ONE/
 
 ![Preview](https://github.com/AndreaCarrilloOp/PokeEncriptador-ONE/blob/main/images/PokeGIF.gif)
 
