@@ -1,4 +1,4 @@
-![Banner](https://github.com/AndCarrillo/PokeEncriptador-ONE/blob/main/images/PokeBanner.PNG)
+![Banner](https://github.com/AndreaCarrilloOp/PokeEncriptador-ONE/blob/main/images/PokeBanner.PNG)
 
 # Encriptador-ONE
 
@@ -33,7 +33,7 @@ Las "llaves" de encriptación que utilizaremos son las siguientes:
 ## Enlace a GitHub Pages
 https://andcarrillo.github.io/PokeEncriptador-ONE/
 
-![Preview](https://github.com/AndCarrillo/PokeEncriptador-ONE/blob/main/images/PokeGIF.gif)
+![Preview](https://github.com/AndreaCarrilloOp/PokeEncriptador-ONE/blob/main/images/PokeGIF.gif)
 
 ## Insignia
 
